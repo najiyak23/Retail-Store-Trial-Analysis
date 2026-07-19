@@ -1,4 +1,4 @@
-# 🛒 Retail Store Trial Analysis (Quantium Virtual Experience)
+# 🛒 Retail Store Trial Analysis (Quantium Virtual Experience) 
 
 ## 📌 Project Overview
 

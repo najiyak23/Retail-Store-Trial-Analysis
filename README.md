@@ -11,6 +11,16 @@ The analysis was divided into two parts:
 
 ---
 
+# 📂 Project Resources
+
+| Resource | Description |
+|----------|-------------|
+| 📓 [Jupyter Notebook](Quatium_DA.ipynb) | Complete Python analysis including data cleaning, exploratory data analysis, statistical testing, and visualizations. |
+| 📊 [Project Presentation](Retail_Analytics_Presentation.pdf) | Business presentation summarizing the analysis, key findings, visualizations, and recommendations. |
+| 🏆 [Completion  Certificate](Quantium_DA_certificate.pdf) |   Certificate of completion for the Quantium Data Analytics Virtual Experience Program. |
+
+---
+
 ## 📂 Dataset
 
 The analysis was performed on a retail transaction dataset containing **260,000+ customer transactions** across multiple stores.
